@@ -1,3 +1,7 @@
+'''This code plots the CV measurement figures from files located in the 'data' folder'''
+
+__author__ = "Shirajum Monira"
+
 import matplotlib.pyplot as plt 
 from scipy.optimize import curve_fit
 import numpy as np
